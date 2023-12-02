@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/agustinherlein.github.io/hana-hoshi/static/css/main.ca85ed47.css",
-    "main.js": "/agustinherlein.github.io/hana-hoshi/static/js/main.d3bb3a99.js",
+    "main.js": "/agustinherlein.github.io/hana-hoshi/static/js/main.196b3f8a.js",
     "static/js/787.d4aba7ab.chunk.js": "/agustinherlein.github.io/hana-hoshi/static/js/787.d4aba7ab.chunk.js",
     "static/media/flipis.png": "/agustinherlein.github.io/hana-hoshi/static/media/flipis.d3f54fb6741681b7bf46.png",
     "index.html": "/agustinherlein.github.io/hana-hoshi/index.html",
     "main.ca85ed47.css.map": "/agustinherlein.github.io/hana-hoshi/static/css/main.ca85ed47.css.map",
-    "main.d3bb3a99.js.map": "/agustinherlein.github.io/hana-hoshi/static/js/main.d3bb3a99.js.map",
+    "main.196b3f8a.js.map": "/agustinherlein.github.io/hana-hoshi/static/js/main.196b3f8a.js.map",
     "787.d4aba7ab.chunk.js.map": "/agustinherlein.github.io/hana-hoshi/static/js/787.d4aba7ab.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.ca85ed47.css",
-    "static/js/main.d3bb3a99.js"
+    "static/js/main.196b3f8a.js"
   ]
 }
