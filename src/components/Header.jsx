@@ -1,5 +1,6 @@
 import React from "react";
 import flipis from "../img/flipis.png";
+import {Link} from "react-router-dom"
 
 export default function Header() {
   return (
