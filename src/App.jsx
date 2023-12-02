@@ -10,21 +10,14 @@ function App() {
   return (
     <div className="app">
       <Header/>
-      <div className="main">
-        <BrowserRouter>
+        <BrowserRouter basename={process.env.PUBLIC_URL}>
           <Routes>
-            <Route path='/' element={<div>Lorem ipsum XD</div>}/>
+            <Route path='/' element={<div className="main">Lorem ipsum XD</div>}/>
           </Routes>
-          
         </BrowserRouter>
-        </div>
     
     </div>
   );
 }
-
-// ReactDOM.render((<BrowserRouter basename={process.env.PUBLIC_URL}>
-//   <App />
-//   <BrowserRouter/>), ...)
 
 export default App;
